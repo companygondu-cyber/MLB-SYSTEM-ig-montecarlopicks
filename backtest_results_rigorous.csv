@@ -1,0 +1,413 @@
+date,home,away,pick,tier,conf_cal,actual_winner,hit
+2026-05-06,St. Louis Cardinals,Milwaukee Brewers,Milwaukee Brewers,🎯 SNIPER,84.1,Milwaukee Brewers,1
+2026-05-06,Arizona Diamondbacks,Pittsburgh Pirates,Pittsburgh Pirates,🎯 SNIPER,83.4,Pittsburgh Pirates,1
+2026-05-06,Washington Nationals,Minnesota Twins,Minnesota Twins,📦 VOLUMEN,75.8,Washington Nationals,0
+2026-05-06,Los Angeles Angels,Chicago White Sox,Los Angeles Angels,📦 VOLUMEN,74.5,Los Angeles Angels,1
+2026-05-06,Kansas City Royals,Cleveland Guardians,Cleveland Guardians (❄️ FRÍO),📦 VOLUMEN,74.2,Cleveland Guardians,0
+2026-05-06,New York Yankees,Texas Rangers,New York Yankees (🔥 CALIENTE),📦 VOLUMEN,71.2,Texas Rangers,0
+2026-05-06,Miami Marlins,Baltimore Orioles,Miami Marlins,📦 VOLUMEN,69.7,Baltimore Orioles,0
+2026-05-06,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays (🔥 CALIENTE),📦 VOLUMEN,69.2,Tampa Bay Rays,0
+2026-05-06,San Francisco Giants,San Diego Padres,San Diego Padres,📊 STANDARD,64.9,San Diego Padres,1
+2026-05-06,Colorado Rockies,New York Mets,New York Mets,📊 STANDARD,64.4,New York Mets,1
+2026-05-06,Philadelphia Phillies,Athletics,Philadelphia Phillies (🔥 CALIENTE),📊 STANDARD,62.5,Philadelphia Phillies,0
+2026-05-06,Chicago Cubs,Cincinnati Reds,Cincinnati Reds (❄️ FRÍO),📊 STANDARD,62.5,Chicago Cubs,0
+2026-05-06,Detroit Tigers,Boston Red Sox,Boston Red Sox,📊 STANDARD,58.8,Boston Red Sox,1
+2026-05-06,Houston Astros,Los Angeles Dodgers,Los Angeles Dodgers,📊 STANDARD,58.4,Los Angeles Dodgers,1
+2026-05-06,Seattle Mariners,Atlanta Braves,Atlanta Braves (🔥 CALIENTE),📊 STANDARD,58.1,Seattle Mariners,0
+2026-05-07,San Diego Padres,St. Louis Cardinals,St. Louis Cardinals,🎯 SNIPER,83.5,St. Louis Cardinals,1
+2026-05-07,New York Yankees,Texas Rangers,Texas Rangers (❄️ FRÍO),🎯 SNIPER,83.3,New York Yankees,0
+2026-05-07,Philadelphia Phillies,Athletics,Athletics (❄️ FRÍO),🎯 SNIPER,81.9,Athletics,0
+2026-05-07,Colorado Rockies,New York Mets,Colorado Rockies (❄️ FRÍO),📦 VOLUMEN,75.2,Colorado Rockies,0
+2026-05-07,Chicago Cubs,Cincinnati Reds,Chicago Cubs (🔥 CALIENTE),📦 VOLUMEN,74.9,Chicago Cubs,0
+2026-05-07,Arizona Diamondbacks,Pittsburgh Pirates,Pittsburgh Pirates (🔥 CALIENTE),📦 VOLUMEN,71.0,Pittsburgh Pirates,0
+2026-05-07,Washington Nationals,Minnesota Twins,Minnesota Twins,📦 VOLUMEN,70.9,Washington Nationals,0
+2026-05-07,Miami Marlins,Baltimore Orioles,Miami Marlins,📊 STANDARD,63.5,Miami Marlins,1
+2026-05-07,Kansas City Royals,Cleveland Guardians,Kansas City Royals (🔥 CALIENTE),📊 STANDARD,58.7,Cleveland Guardians,0
+2026-05-07,Boston Red Sox,Tampa Bay Rays,Boston Red Sox,📊 STANDARD,57.3,Tampa Bay Rays,0
+2026-05-08,San Francisco Giants,Pittsburgh Pirates,Pittsburgh Pirates (🔥 CALIENTE),📦 VOLUMEN,75.8,San Francisco Giants,0
+2026-05-08,Philadelphia Phillies,Colorado Rockies,Philadelphia Phillies (🔥 CALIENTE),📦 VOLUMEN,72.6,Colorado Rockies,0
+2026-05-08,Baltimore Orioles,Athletics,Athletics,📦 VOLUMEN,71.1,Athletics,1
+2026-05-08,Cleveland Guardians,Minnesota Twins,Cleveland Guardians,📦 VOLUMEN,70.8,Cleveland Guardians,1
+2026-05-08,Boston Red Sox,Tampa Bay Rays,Tampa Bay Rays,📦 VOLUMEN,69.8,Boston Red Sox,0
+2026-05-08,Kansas City Royals,Detroit Tigers,Detroit Tigers,📦 VOLUMEN,66.0,Kansas City Royals,0
+2026-05-08,Miami Marlins,Washington Nationals,Washington Nationals,📊 STANDARD,64.9,Washington Nationals,1
+2026-05-08,Los Angeles Dodgers,Atlanta Braves,Atlanta Braves,📊 STANDARD,64.6,Los Angeles Dodgers,0
+2026-05-08,San Diego Padres,St. Louis Cardinals,San Diego Padres,📊 STANDARD,64.0,St. Louis Cardinals,0
+2026-05-08,Toronto Blue Jays,Los Angeles Angels,Toronto Blue Jays,📊 STANDARD,63.7,Toronto Blue Jays,1
+2026-05-08,Arizona Diamondbacks,New York Mets,New York Mets,📊 STANDARD,63.7,New York Mets,1
+2026-05-08,Milwaukee Brewers,New York Yankees,New York Yankees,📊 STANDARD,62.6,Milwaukee Brewers,0
+2026-05-08,Texas Rangers,Chicago Cubs,Texas Rangers (⚠️ ALTA VOL ❄️ FRÍO ❌ EVITAR),📊 STANDARD,61.5,Chicago Cubs,0
+2026-05-08,Cincinnati Reds,Houston Astros,Houston Astros,📊 STANDARD,58.0,Houston Astros,1
+2026-05-08,Chicago White Sox,Seattle Mariners,Seattle Mariners,📊 STANDARD,57.5,Seattle Mariners,1
+2026-05-09,San Francisco Giants,Pittsburgh Pirates,Pittsburgh Pirates,🎯 SNIPER,79.4,Pittsburgh Pirates,1
+2026-05-09,Los Angeles Dodgers,Atlanta Braves,Los Angeles Dodgers (🔥 CALIENTE),📦 VOLUMEN,76.3,Atlanta Braves,0
+2026-05-09,Cincinnati Reds,Houston Astros,Cincinnati Reds,📦 VOLUMEN,75.9,Cincinnati Reds,1
+2026-05-09,San Diego Padres,St. Louis Cardinals,St. Louis Cardinals (⚠️ ALTA VOL),📦 VOLUMEN,74.9,San Diego Padres,0
+2026-05-09,Toronto Blue Jays,Los Angeles Angels,Toronto Blue Jays,📦 VOLUMEN,68.2,Toronto Blue Jays,1
+2026-05-09,Cleveland Guardians,Minnesota Twins,Minnesota Twins,📦 VOLUMEN,68.2,Minnesota Twins,1
+2026-05-09,Kansas City Royals,Detroit Tigers,Kansas City Royals,📊 STANDARD,64.9,Kansas City Royals,1
+2026-05-09,Baltimore Orioles,Athletics,Athletics,📊 STANDARD,63.3,Athletics,1
+2026-05-09,Milwaukee Brewers,New York Yankees,Milwaukee Brewers,📊 STANDARD,63.2,Milwaukee Brewers,1
+2026-05-09,Miami Marlins,Washington Nationals,Miami Marlins (❄️ FRÍO),📊 STANDARD,62.5,Miami Marlins,0
+2026-05-09,Texas Rangers,Chicago Cubs,Chicago Cubs (🔥 CALIENTE),📊 STANDARD,62.5,Texas Rangers,0
+2026-05-09,Arizona Diamondbacks,New York Mets,New York Mets (🔥 CALIENTE),📊 STANDARD,60.9,Arizona Diamondbacks,0
+2026-05-09,Philadelphia Phillies,Colorado Rockies,Colorado Rockies,📊 STANDARD,59.8,Philadelphia Phillies,0
+2026-05-09,Chicago White Sox,Seattle Mariners,Seattle Mariners (⚠️ ALTA VOL),📊 STANDARD,56.8,Chicago White Sox,0
+2026-05-10,San Francisco Giants,Pittsburgh Pirates,Pittsburgh Pirates,🎯 SNIPER,79.3,San Francisco Giants,0
+2026-05-10,Arizona Diamondbacks,New York Mets,New York Mets,🎯 SNIPER,79.1,Arizona Diamondbacks,0
+2026-05-10,Cleveland Guardians,Minnesota Twins,Cleveland Guardians,🎯 SNIPER,78.6,Minnesota Twins,0
+2026-05-10,San Diego Padres,St. Louis Cardinals,St. Louis Cardinals,📦 VOLUMEN,77.1,San Diego Padres,0
+2026-05-10,Texas Rangers,Chicago Cubs,Texas Rangers (❄️ FRÍO),📦 VOLUMEN,75.2,Texas Rangers,0
+2026-05-10,Boston Red Sox,Tampa Bay Rays,Tampa Bay Rays,📦 VOLUMEN,74.3,Tampa Bay Rays,1
+2026-05-10,Los Angeles Dodgers,Atlanta Braves,Los Angeles Dodgers,📦 VOLUMEN,73.5,Atlanta Braves,0
+2026-05-10,Cincinnati Reds,Houston Astros,Cincinnati Reds (⚠️ ALTA VOL),📦 VOLUMEN,69.6,Cincinnati Reds,0
+2026-05-10,Chicago White Sox,Seattle Mariners,Chicago White Sox,📦 VOLUMEN,68.9,Chicago White Sox,1
+2026-05-10,Toronto Blue Jays,Los Angeles Angels,Los Angeles Angels,📊 STANDARD,64.9,Los Angeles Angels,1
+2026-05-10,Baltimore Orioles,Athletics,Athletics,📊 STANDARD,62.7,Baltimore Orioles,0
+2026-05-10,Milwaukee Brewers,New York Yankees,Milwaukee Brewers,📊 STANDARD,62.4,Milwaukee Brewers,1
+2026-05-10,Philadelphia Phillies,Colorado Rockies,Colorado Rockies,📊 STANDARD,61.5,Philadelphia Phillies,0
+2026-05-10,Kansas City Royals,Detroit Tigers,Kansas City Royals,📊 STANDARD,60.9,Detroit Tigers,0
+2026-05-10,Miami Marlins,Washington Nationals,Washington Nationals,📊 STANDARD,59.5,Miami Marlins,0
+2026-05-11,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays (🔥 CALIENTE),🎯 SNIPER,79.6,Tampa Bay Rays,0
+2026-05-11,Baltimore Orioles,New York Yankees,New York Yankees,🎯 SNIPER,78.2,Baltimore Orioles,0
+2026-05-11,Cleveland Guardians,Los Angeles Angels,Los Angeles Angels,📦 VOLUMEN,75.9,Cleveland Guardians,0
+2026-05-11,Los Angeles Dodgers,San Francisco Giants,San Francisco Giants,📦 VOLUMEN,75.5,San Francisco Giants,1
+2026-05-11,Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks,📊 STANDARD,61.1,Arizona Diamondbacks,1
+2026-05-11,Houston Astros,Seattle Mariners,Seattle Mariners,📊 STANDARD,61.1,Seattle Mariners,1
+2026-05-12,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays (🔥 CALIENTE),🎯 SNIPER,81.3,Tampa Bay Rays,0
+2026-05-12,Houston Astros,Seattle Mariners,Seattle Mariners,🎯 SNIPER,79.8,Seattle Mariners,1
+2026-05-12,Los Angeles Dodgers,San Francisco Giants,Los Angeles Dodgers,🎯 SNIPER,79.2,San Francisco Giants,0
+2026-05-12,Cleveland Guardians,Los Angeles Angels,Los Angeles Angels,🎯 SNIPER,79.1,Cleveland Guardians,0
+2026-05-12,Pittsburgh Pirates,Colorado Rockies,Pittsburgh Pirates,📦 VOLUMEN,74.7,Pittsburgh Pirates,1
+2026-05-12,Chicago White Sox,Kansas City Royals,Chicago White Sox,📦 VOLUMEN,74.5,Chicago White Sox,1
+2026-05-12,Cincinnati Reds,Washington Nationals,Cincinnati Reds,📦 VOLUMEN,73.8,Washington Nationals,0
+2026-05-12,Texas Rangers,Arizona Diamondbacks,Texas Rangers,📦 VOLUMEN,65.6,Texas Rangers,1
+2026-05-12,New York Mets,Detroit Tigers,New York Mets,📦 VOLUMEN,65.5,New York Mets,1
+2026-05-12,Boston Red Sox,Philadelphia Phillies,Philadelphia Phillies,📊 STANDARD,64.9,Philadelphia Phillies,1
+2026-05-12,Milwaukee Brewers,San Diego Padres,San Diego Padres,📊 STANDARD,64.9,Milwaukee Brewers,0
+2026-05-12,Atlanta Braves,Chicago Cubs,Chicago Cubs,📊 STANDARD,62.8,Atlanta Braves,0
+2026-05-12,Baltimore Orioles,New York Yankees,New York Yankees,📊 STANDARD,62.7,New York Yankees,1
+2026-05-12,Minnesota Twins,Miami Marlins,Minnesota Twins,📊 STANDARD,62.3,Minnesota Twins,1
+2026-05-12,Athletics,St. Louis Cardinals,St. Louis Cardinals,📊 STANDARD,60.7,St. Louis Cardinals,1
+2026-05-13,Chicago White Sox,Kansas City Royals,Kansas City Royals,🎯 SNIPER,79.7,Chicago White Sox,0
+2026-05-13,Boston Red Sox,Philadelphia Phillies,Philadelphia Phillies,🎯 SNIPER,78.4,Boston Red Sox,0
+2026-05-13,Atlanta Braves,Chicago Cubs,Chicago Cubs,📦 VOLUMEN,77.5,Atlanta Braves,0
+2026-05-13,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays (🔥 CALIENTE),📦 VOLUMEN,77.4,Toronto Blue Jays,0
+2026-05-13,Cleveland Guardians,Los Angeles Angels,Cleveland Guardians,📦 VOLUMEN,76.0,Cleveland Guardians,1
+2026-05-13,Los Angeles Dodgers,San Francisco Giants,Los Angeles Dodgers (❄️ FRÍO),📦 VOLUMEN,75.10000000000001,Los Angeles Dodgers,0
+2026-05-13,Athletics,St. Louis Cardinals,Athletics,📦 VOLUMEN,73.9,Athletics,1
+2026-05-13,Baltimore Orioles,New York Yankees,Baltimore Orioles,📦 VOLUMEN,73.5,Baltimore Orioles,1
+2026-05-13,Milwaukee Brewers,San Diego Padres,Milwaukee Brewers (🔥 CALIENTE),📦 VOLUMEN,70.6,San Diego Padres,0
+2026-05-13,Minnesota Twins,Miami Marlins,Miami Marlins,📦 VOLUMEN,70.0,Miami Marlins,1
+2026-05-13,Texas Rangers,Arizona Diamondbacks,Texas Rangers (⚠️ ALTA VOL),📦 VOLUMEN,67.3,Texas Rangers,0
+2026-05-13,Pittsburgh Pirates,Colorado Rockies,Colorado Rockies,📦 VOLUMEN,66.9,Colorado Rockies,1
+2026-05-13,Houston Astros,Seattle Mariners,Seattle Mariners,📦 VOLUMEN,66.7,Houston Astros,0
+2026-05-13,New York Mets,Detroit Tigers,New York Mets,📦 VOLUMEN,65.0,New York Mets,1
+2026-05-13,Cincinnati Reds,Washington Nationals,Washington Nationals,📊 STANDARD,61.6,Washington Nationals,1
+2026-05-14,Los Angeles Dodgers,San Francisco Giants,Los Angeles Dodgers,🎯 SNIPER,79.4,Los Angeles Dodgers,1
+2026-05-14,Athletics,St. Louis Cardinals,St. Louis Cardinals,🎯 SNIPER,79.3,St. Louis Cardinals,1
+2026-05-14,Houston Astros,Seattle Mariners,Houston Astros,📦 VOLUMEN,76.9,Seattle Mariners,0
+2026-05-14,Boston Red Sox,Philadelphia Phillies,Boston Red Sox,📦 VOLUMEN,76.6,Philadelphia Phillies,0
+2026-05-14,New York Mets,Detroit Tigers,New York Mets,📦 VOLUMEN,76.4,New York Mets,1
+2026-05-14,Cincinnati Reds,Washington Nationals,Cincinnati Reds,📦 VOLUMEN,70.3,Cincinnati Reds,1
+2026-05-14,Pittsburgh Pirates,Colorado Rockies,Pittsburgh Pirates,📊 STANDARD,64.9,Pittsburgh Pirates,1
+2026-05-14,Minnesota Twins,Miami Marlins,Minnesota Twins,📊 STANDARD,64.9,Minnesota Twins,1
+2026-05-14,Milwaukee Brewers,San Diego Padres,San Diego Padres,📊 STANDARD,64.8,Milwaukee Brewers,0
+2026-05-14,Chicago White Sox,Kansas City Royals,Kansas City Royals (❄️ FRÍO),📊 STANDARD,60.8,Chicago White Sox,0
+2026-05-14,Atlanta Braves,Chicago Cubs,Atlanta Braves (🔥 CALIENTE),📊 STANDARD,60.2,Chicago Cubs,0
+2026-05-15,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,🎯 SNIPER,86.5,Arizona Diamondbacks,1
+2026-05-15,Minnesota Twins,Milwaukee Brewers,Milwaukee Brewers,🎯 SNIPER,85.5,Milwaukee Brewers,1
+2026-05-15,Chicago White Sox,Chicago Cubs,Chicago Cubs (❄️ FRÍO),📦 VOLUMEN,77.1,Chicago Cubs,0
+2026-05-15,Tampa Bay Rays,Miami Marlins,Tampa Bay Rays,📦 VOLUMEN,77.0,Tampa Bay Rays,1
+2026-05-15,Cleveland Guardians,Cincinnati Reds,Cleveland Guardians (⚠️ ALTA VOL),📦 VOLUMEN,74.9,Cincinnati Reds,0
+2026-05-15,New York Mets,New York Yankees,New York Yankees,📦 VOLUMEN,74.4,New York Yankees,1
+2026-05-15,Pittsburgh Pirates,Philadelphia Phillies,Pittsburgh Pirates,📦 VOLUMEN,74.3,Philadelphia Phillies,0
+2026-05-15,St. Louis Cardinals,Kansas City Royals,Kansas City Royals,📦 VOLUMEN,74.2,St. Louis Cardinals,0
+2026-05-15,Athletics,San Francisco Giants,Athletics,📦 VOLUMEN,72.2,Athletics,1
+2026-05-15,Houston Astros,Texas Rangers,Houston Astros (❄️ FRÍO),📦 VOLUMEN,69.7,Houston Astros,0
+2026-05-15,Detroit Tigers,Toronto Blue Jays,Toronto Blue Jays,📊 STANDARD,64.9,Detroit Tigers,0
+2026-05-15,Los Angeles Angels,Los Angeles Dodgers,Los Angeles Dodgers,📊 STANDARD,60.0,Los Angeles Dodgers,1
+2026-05-15,Atlanta Braves,Boston Red Sox,Boston Red Sox (❄️ FRÍO),📊 STANDARD,59.5,Atlanta Braves,0
+2026-05-15,Seattle Mariners,San Diego Padres,San Diego Padres,📊 STANDARD,59.1,San Diego Padres,1
+2026-05-15,Washington Nationals,Baltimore Orioles,Washington Nationals (⚠️ ALTA VOL),📊 STANDARD,57.2,Washington Nationals,0
+2026-05-16,Atlanta Braves,Boston Red Sox,Boston Red Sox (❄️ FRÍO),🎯 SNIPER,83.5,Boston Red Sox,0
+2026-05-16,Los Angeles Angels,Los Angeles Dodgers,Los Angeles Dodgers,📦 VOLUMEN,76.3,Los Angeles Dodgers,1
+2026-05-16,Tampa Bay Rays,Miami Marlins,Tampa Bay Rays (🔥 CALIENTE),📦 VOLUMEN,76.2,Miami Marlins,0
+2026-05-16,Seattle Mariners,San Diego Padres,Seattle Mariners,📦 VOLUMEN,75.9,San Diego Padres,0
+2026-05-16,Minnesota Twins,Milwaukee Brewers,Milwaukee Brewers,📦 VOLUMEN,75.1,Milwaukee Brewers,1
+2026-05-16,Washington Nationals,Baltimore Orioles,Baltimore Orioles (⚠️ ALTA VOL),📦 VOLUMEN,74.9,Washington Nationals,0
+2026-05-16,New York Mets,New York Yankees,New York Mets,📦 VOLUMEN,73.5,New York Mets,1
+2026-05-16,Cleveland Guardians,Cincinnati Reds,Cincinnati Reds (⚠️ ALTA VOL),📦 VOLUMEN,69.6,Cleveland Guardians,0
+2026-05-16,Houston Astros,Texas Rangers,Houston Astros,📦 VOLUMEN,69.2,Houston Astros,1
+2026-05-16,Chicago White Sox,Chicago Cubs,Chicago White Sox (🔥 CALIENTE),📦 VOLUMEN,68.3,Chicago White Sox,0
+2026-05-16,St. Louis Cardinals,Kansas City Royals,St. Louis Cardinals,📦 VOLUMEN,68.1,St. Louis Cardinals,1
+2026-05-16,Pittsburgh Pirates,Philadelphia Phillies,Philadelphia Phillies (🔥 CALIENTE),📦 VOLUMEN,68.0,Philadelphia Phillies,0
+2026-05-16,Athletics,San Francisco Giants,San Francisco Giants,📦 VOLUMEN,67.9,San Francisco Giants,1
+2026-05-16,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,📊 STANDARD,61.4,Colorado Rockies,1
+2026-05-16,Detroit Tigers,Toronto Blue Jays,Detroit Tigers,📊 STANDARD,56.4,Toronto Blue Jays,0
+2026-05-17,Los Angeles Angels,Los Angeles Dodgers,Los Angeles Dodgers (🔥 CALIENTE),🎯 SNIPER,84.3,Los Angeles Dodgers,0
+2026-05-17,Athletics,San Francisco Giants,Athletics,🎯 SNIPER,84.0,San Francisco Giants,0
+2026-05-17,St. Louis Cardinals,Kansas City Royals,Kansas City Royals (❄️ FRÍO),📦 VOLUMEN,75.3,Kansas City Royals,0
+2026-05-17,Seattle Mariners,San Diego Padres,San Diego Padres,📦 VOLUMEN,75.3,San Diego Padres,1
+2026-05-17,Chicago White Sox,Chicago Cubs,Chicago Cubs (❄️ FRÍO),📦 VOLUMEN,74.9,Chicago White Sox,0
+2026-05-17,Tampa Bay Rays,Miami Marlins,Tampa Bay Rays,📦 VOLUMEN,73.4,Tampa Bay Rays,1
+2026-05-17,Cleveland Guardians,Cincinnati Reds,Cleveland Guardians (🔥 CALIENTE),📦 VOLUMEN,73.0,Cleveland Guardians,0
+2026-05-17,Atlanta Braves,Boston Red Sox,Atlanta Braves,📦 VOLUMEN,68.3,Atlanta Braves,1
+2026-05-17,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,📦 VOLUMEN,67.2,Arizona Diamondbacks,1
+2026-05-17,Washington Nationals,Baltimore Orioles,Baltimore Orioles (❄️ FRÍO),📊 STANDARD,64.9,Baltimore Orioles,0
+2026-05-17,New York Mets,New York Yankees,New York Yankees (❄️ FRÍO),📊 STANDARD,61.8,New York Mets,0
+2026-05-17,Houston Astros,Texas Rangers,Houston Astros,📊 STANDARD,61.7,Texas Rangers,0
+2026-05-17,Detroit Tigers,Toronto Blue Jays,Toronto Blue Jays,📊 STANDARD,61.2,Toronto Blue Jays,1
+2026-05-17,Minnesota Twins,Milwaukee Brewers,Minnesota Twins (❄️ FRÍO),📊 STANDARD,57.1,Minnesota Twins,0
+2026-05-17,Pittsburgh Pirates,Philadelphia Phillies,Philadelphia Phillies (🔥 CALIENTE),📊 STANDARD,55.0,Philadelphia Phillies,0
+2026-05-18,Colorado Rockies,Texas Rangers,Colorado Rockies,🎯 SNIPER,85.1,Colorado Rockies,1
+2026-05-18,Tampa Bay Rays,Baltimore Orioles,Tampa Bay Rays,📦 VOLUMEN,70.4,Tampa Bay Rays,1
+2026-05-18,Miami Marlins,Atlanta Braves,Miami Marlins,📦 VOLUMEN,69.8,Miami Marlins,1
+2026-05-18,New York Yankees,Toronto Blue Jays,New York Yankees,📦 VOLUMEN,69.7,New York Yankees,1
+2026-05-18,San Diego Padres,Los Angeles Dodgers,San Diego Padres,📦 VOLUMEN,69.4,San Diego Padres,1
+2026-05-18,Los Angeles Angels,Athletics,Los Angeles Angels,📦 VOLUMEN,69.3,Los Angeles Angels,1
+2026-05-18,Arizona Diamondbacks,San Francisco Giants,Arizona Diamondbacks,📦 VOLUMEN,68.1,Arizona Diamondbacks,1
+2026-05-18,Seattle Mariners,Chicago White Sox,Seattle Mariners (❄️ FRÍO),📦 VOLUMEN,67.1,Seattle Mariners,0
+2026-05-18,Minnesota Twins,Houston Astros,Minnesota Twins,📊 STANDARD,64.9,Minnesota Twins,1
+2026-05-18,Washington Nationals,New York Mets,Washington Nationals,📊 STANDARD,64.8,New York Mets,0
+2026-05-18,Kansas City Royals,Boston Red Sox,Boston Red Sox,📊 STANDARD,64.2,Boston Red Sox,1
+2026-05-18,Detroit Tigers,Cleveland Guardians,Cleveland Guardians (🔥 CALIENTE),📊 STANDARD,61.2,Cleveland Guardians,0
+2026-05-18,Chicago Cubs,Milwaukee Brewers,Chicago Cubs,📊 STANDARD,60.4,Milwaukee Brewers,0
+2026-05-18,Philadelphia Phillies,Cincinnati Reds,Cincinnati Reds (❄️ FRÍO),📊 STANDARD,59.7,Philadelphia Phillies,0
+2026-05-19,Kansas City Royals,Boston Red Sox,Boston Red Sox,🎯 SNIPER,79.0,Boston Red Sox,1
+2026-05-19,Chicago Cubs,Milwaukee Brewers,Milwaukee Brewers (🔥 CALIENTE),🎯 SNIPER,79.0,Milwaukee Brewers,0
+2026-05-19,St. Louis Cardinals,Pittsburgh Pirates,Pittsburgh Pirates,📦 VOLUMEN,74.3,St. Louis Cardinals,0
+2026-05-19,Washington Nationals,New York Mets,New York Mets (🔥 CALIENTE),📦 VOLUMEN,73.6,Washington Nationals,0
+2026-05-19,New York Yankees,Toronto Blue Jays,Toronto Blue Jays,📦 VOLUMEN,70.0,New York Yankees,0
+2026-05-19,Los Angeles Angels,Athletics,Athletics,📦 VOLUMEN,70.0,Athletics,1
+2026-05-19,Minnesota Twins,Houston Astros,Houston Astros,📦 VOLUMEN,69.7,Houston Astros,1
+2026-05-19,San Diego Padres,Los Angeles Dodgers,Los Angeles Dodgers,📦 VOLUMEN,69.1,Los Angeles Dodgers,1
+2026-05-19,Tampa Bay Rays,Baltimore Orioles,Tampa Bay Rays,📦 VOLUMEN,68.6,Tampa Bay Rays,1
+2026-05-19,Philadelphia Phillies,Cincinnati Reds,Cincinnati Reds (❄️ FRÍO),📦 VOLUMEN,68.4,Cincinnati Reds,0
+2026-05-19,Miami Marlins,Atlanta Braves,Atlanta Braves,📊 STANDARD,64.9,Atlanta Braves,1
+2026-05-19,Colorado Rockies,Texas Rangers,Texas Rangers,📊 STANDARD,64.9,Texas Rangers,1
+2026-05-19,Seattle Mariners,Chicago White Sox,Chicago White Sox,📊 STANDARD,64.6,Chicago White Sox,1
+2026-05-19,Detroit Tigers,Cleveland Guardians,Cleveland Guardians (🔥 CALIENTE),📊 STANDARD,61.8,Cleveland Guardians,0
+2026-05-19,Arizona Diamondbacks,San Francisco Giants,San Francisco Giants,📊 STANDARD,58.9,Arizona Diamondbacks,0
+2026-05-20,Tampa Bay Rays,Baltimore Orioles,Tampa Bay Rays (🔥 CALIENTE),💎 GOD,84.7,Tampa Bay Rays,0
+2026-05-20,Miami Marlins,Atlanta Braves,Atlanta Braves,🎯 SNIPER,84.3,Atlanta Braves,1
+2026-05-20,Minnesota Twins,Houston Astros,Minnesota Twins,💎 GOD,80.0,Minnesota Twins,1
+2026-05-20,San Diego Padres,Los Angeles Dodgers,Los Angeles Dodgers,📦 VOLUMEN,73.8,Los Angeles Dodgers,1
+2026-05-20,Chicago Cubs,Milwaukee Brewers,Milwaukee Brewers (🔥 CALIENTE),📦 VOLUMEN,73.6,Milwaukee Brewers,0
+2026-05-20,Arizona Diamondbacks,San Francisco Giants,Arizona Diamondbacks (🔥 CALIENTE),📦 VOLUMEN,73.5,Arizona Diamondbacks,0
+2026-05-20,Los Angeles Angels,Athletics,Athletics,📦 VOLUMEN,73.4,Athletics,1
+2026-05-20,St. Louis Cardinals,Pittsburgh Pirates,Pittsburgh Pirates (❄️ FRÍO),📦 VOLUMEN,73.3,Pittsburgh Pirates,0
+2026-05-20,Philadelphia Phillies,Cincinnati Reds,Cincinnati Reds (⚠️ ALTA VOL ❄️ FRÍO ❌ EVITAR),📦 VOLUMEN,70.8,Cincinnati Reds,0
+2026-05-20,Colorado Rockies,Texas Rangers,Texas Rangers,📦 VOLUMEN,69.5,Texas Rangers,1
+2026-05-20,Kansas City Royals,Boston Red Sox,Kansas City Royals,📦 VOLUMEN,69.4,Boston Red Sox,0
+2026-05-20,Seattle Mariners,Chicago White Sox,Seattle Mariners,📊 STANDARD,64.4,Seattle Mariners,1
+2026-05-20,Detroit Tigers,Cleveland Guardians,Cleveland Guardians (🔥 CALIENTE),📊 STANDARD,63.1,Cleveland Guardians,0
+2026-05-20,New York Yankees,Toronto Blue Jays,Toronto Blue Jays,📊 STANDARD,62.9,Toronto Blue Jays,1
+2026-05-20,Washington Nationals,New York Mets,Washington Nationals (⚠️ ALTA VOL),📊 STANDARD,61.400000000000006,Washington Nationals,0
+2026-05-21,Washington Nationals,New York Mets,Washington Nationals,📦 VOLUMEN,76.1,New York Mets,0
+2026-05-21,St. Louis Cardinals,Pittsburgh Pirates,Pittsburgh Pirates,📦 VOLUMEN,72.7,Pittsburgh Pirates,1
+2026-05-21,New York Yankees,Toronto Blue Jays,Toronto Blue Jays,📊 STANDARD,57.0,Toronto Blue Jays,1
+2026-05-21,Los Angeles Angels,Athletics,Los Angeles Angels,📊 STANDARD,56.4,Athletics,0
+2026-05-21,Detroit Tigers,Cleveland Guardians,Cleveland Guardians (🔥 CALIENTE),📊 STANDARD,55.9,Cleveland Guardians,0
+2026-05-21,Arizona Diamondbacks,Colorado Rockies,Colorado Rockies (❄️ FRÍO),📊 STANDARD,55.4,Arizona Diamondbacks,0
+2026-05-21,Miami Marlins,Atlanta Braves,Atlanta Braves,📊 STANDARD,51.0,Atlanta Braves,1
+2026-05-22,San Francisco Giants,Chicago White Sox,Chicago White Sox,🎯 SNIPER,79.4,Chicago White Sox,1
+2026-05-22,Baltimore Orioles,Detroit Tigers,Baltimore Orioles,📦 VOLUMEN,77.4,Baltimore Orioles,1
+2026-05-22,San Diego Padres,Athletics,Athletics,📦 VOLUMEN,76.9,San Diego Padres,0
+2026-05-22,Milwaukee Brewers,Los Angeles Dodgers,Milwaukee Brewers,📦 VOLUMEN,73.8,Milwaukee Brewers,1
+2026-05-22,Chicago Cubs,Houston Astros,Houston Astros,📦 VOLUMEN,72.6,Houston Astros,1
+2026-05-22,New York Yankees,Tampa Bay Rays,New York Yankees (❄️ FRÍO),📦 VOLUMEN,71.8,Tampa Bay Rays,0
+2026-05-22,Philadelphia Phillies,Cleveland Guardians,Cleveland Guardians,📦 VOLUMEN,71.5,Cleveland Guardians,1
+2026-05-22,Kansas City Royals,Seattle Mariners,Kansas City Royals,📦 VOLUMEN,69.2,Seattle Mariners,0
+2026-05-22,Atlanta Braves,Washington Nationals,Atlanta Braves (🔥 CALIENTE),📊 STANDARD,64.9,Atlanta Braves,0
+2026-05-22,Toronto Blue Jays,Pittsburgh Pirates,Toronto Blue Jays,📊 STANDARD,56.5,Toronto Blue Jays,1
+2026-05-22,Boston Red Sox,Minnesota Twins,Minnesota Twins,📊 STANDARD,55.9,Minnesota Twins,1
+2026-05-22,Los Angeles Angels,Texas Rangers,Texas Rangers,📊 STANDARD,51.3,Los Angeles Angels,0
+2026-05-22,Arizona Diamondbacks,Colorado Rockies,Arizona Diamondbacks (🔥 CALIENTE),📊 STANDARD,50.5,Colorado Rockies,0
+2026-05-22,Miami Marlins,New York Mets,New York Mets,📊 STANDARD,50.0,Miami Marlins,0
+2026-05-23,Cincinnati Reds,St. Louis Cardinals,St. Louis Cardinals,📦 VOLUMEN,76.1,Cincinnati Reds,0
+2026-05-23,Milwaukee Brewers,Los Angeles Dodgers,Los Angeles Dodgers,📦 VOLUMEN,75.6,Los Angeles Dodgers,1
+2026-05-23,Atlanta Braves,Washington Nationals,Atlanta Braves (🔥 CALIENTE),📦 VOLUMEN,73.8,Washington Nationals,0
+2026-05-23,Arizona Diamondbacks,Colorado Rockies,Arizona Diamondbacks (🔥 CALIENTE),📦 VOLUMEN,72.3,Arizona Diamondbacks,0
+2026-05-23,Cincinnati Reds,St. Louis Cardinals,St. Louis Cardinals,📦 VOLUMEN,68.8,Cincinnati Reds,0
+2026-05-23,Kansas City Royals,Seattle Mariners,Kansas City Royals,📦 VOLUMEN,68.7,Kansas City Royals,1
+2026-05-23,San Diego Padres,Athletics,San Diego Padres,📦 VOLUMEN,68.5,San Diego Padres,1
+2026-05-23,Toronto Blue Jays,Pittsburgh Pirates,Pittsburgh Pirates,📦 VOLUMEN,68.4,Toronto Blue Jays,0
+2026-05-23,Philadelphia Phillies,Cleveland Guardians,Philadelphia Phillies (❄️ FRÍO),📦 VOLUMEN,68.0,Philadelphia Phillies,0
+2026-05-23,Chicago Cubs,Houston Astros,Houston Astros,📦 VOLUMEN,67.9,Houston Astros,1
+2026-05-23,Los Angeles Angels,Texas Rangers,Los Angeles Angels,📦 VOLUMEN,67.1,Los Angeles Angels,1
+2026-05-23,San Francisco Giants,Chicago White Sox,Chicago White Sox,📊 STANDARD,64.9,San Francisco Giants,0
+2026-05-23,Boston Red Sox,Minnesota Twins,Minnesota Twins,📊 STANDARD,64.9,Minnesota Twins,1
+2026-05-23,Miami Marlins,New York Mets,New York Mets,📊 STANDARD,50.0,Miami Marlins,0
+2026-05-24,New York Yankees,Tampa Bay Rays,Tampa Bay Rays (🔥 CALIENTE),📦 VOLUMEN,77.0,New York Yankees,0
+2026-05-24,Baltimore Orioles,Detroit Tigers,Detroit Tigers,📦 VOLUMEN,76.2,Detroit Tigers,1
+2026-05-24,Philadelphia Phillies,Cleveland Guardians,Cleveland Guardians (🔥 CALIENTE),📦 VOLUMEN,75.5,Cleveland Guardians,0
+2026-05-24,Miami Marlins,New York Mets,Miami Marlins,📦 VOLUMEN,75.5,Miami Marlins,1
+2026-05-24,Kansas City Royals,Seattle Mariners,Kansas City Royals,📦 VOLUMEN,75.5,Kansas City Royals,1
+2026-05-24,Arizona Diamondbacks,Colorado Rockies,Arizona Diamondbacks (⚠️ ALTA VOL 🔥 CALIENTE),📦 VOLUMEN,72.5,Arizona Diamondbacks,0
+2026-05-24,Boston Red Sox,Minnesota Twins,Minnesota Twins,📦 VOLUMEN,66.6,Minnesota Twins,1
+2026-05-24,San Francisco Giants,Chicago White Sox,San Francisco Giants,📦 VOLUMEN,66.3,San Francisco Giants,1
+2026-05-24,Milwaukee Brewers,Los Angeles Dodgers,Milwaukee Brewers,📦 VOLUMEN,65.7,Los Angeles Dodgers,0
+2026-05-24,San Diego Padres,Athletics,Athletics,📊 STANDARD,64.9,Athletics,1
+2026-05-24,Toronto Blue Jays,Pittsburgh Pirates,Pittsburgh Pirates (❄️ FRÍO),📊 STANDARD,64.6,Pittsburgh Pirates,0
+2026-05-24,Baltimore Orioles,Detroit Tigers,Detroit Tigers (⚠️ ALTA VOL),📊 STANDARD,60.900000000000006,Detroit Tigers,0
+2026-05-24,Atlanta Braves,Washington Nationals,Atlanta Braves,📊 STANDARD,59.4,Washington Nationals,0
+2026-05-24,Chicago Cubs,Houston Astros,Chicago Cubs (⚠️ ALTA VOL),📊 STANDARD,55.4,Houston Astros,0
+2026-05-24,Los Angeles Angels,Texas Rangers,Texas Rangers,📊 STANDARD,53.6,Los Angeles Angels,0
+2026-05-25,San Diego Padres,Philadelphia Phillies,Philadelphia Phillies,🎯 SNIPER,79.1,Philadelphia Phillies,1
+2026-05-25,Chicago White Sox,Minnesota Twins,Chicago White Sox (❄️ FRÍO),📦 VOLUMEN,76.7,Chicago White Sox,0
+2026-05-25,New York Mets,Cincinnati Reds,Cincinnati Reds,📦 VOLUMEN,75.9,Cincinnati Reds,1
+2026-05-25,Texas Rangers,Houston Astros,Houston Astros (⚠️ ALTA VOL 🔥 CALIENTE),📦 VOLUMEN,72.8,Houston Astros,0
+2026-05-25,Kansas City Royals,New York Yankees,New York Yankees,📦 VOLUMEN,65.6,New York Yankees,1
+2026-05-25,Los Angeles Dodgers,Colorado Rockies,Los Angeles Dodgers (🔥 CALIENTE),📦 VOLUMEN,65.3,Los Angeles Dodgers,0
+2026-05-25,Cleveland Guardians,Washington Nationals,Washington Nationals,📊 STANDARD,64.9,Washington Nationals,1
+2026-05-25,Toronto Blue Jays,Miami Marlins,Miami Marlins,📊 STANDARD,63.8,Miami Marlins,1
+2026-05-25,San Francisco Giants,Arizona Diamondbacks,San Francisco Giants (❄️ FRÍO),📊 STANDARD,62.3,Arizona Diamondbacks,0
+2026-05-25,Pittsburgh Pirates,Chicago Cubs,Chicago Cubs,📊 STANDARD,60.6,Pittsburgh Pirates,0
+2026-05-25,Milwaukee Brewers,St. Louis Cardinals,Milwaukee Brewers,📊 STANDARD,60.6,Milwaukee Brewers,1
+2026-05-25,Athletics,Seattle Mariners,Athletics,📊 STANDARD,58.3,Seattle Mariners,0
+2026-05-25,Baltimore Orioles,Tampa Bay Rays,Baltimore Orioles (❄️ FRÍO),📊 STANDARD,55.9,Baltimore Orioles,0
+2026-05-26,Kansas City Royals,New York Yankees,New York Yankees,💎 GOD,91.3,New York Yankees,1
+2026-05-26,Cleveland Guardians,Washington Nationals,Washington Nationals,🎯 SNIPER,79.7,Washington Nationals,1
+2026-05-26,Chicago White Sox,Minnesota Twins,Minnesota Twins (🔥 CALIENTE),📦 VOLUMEN,76.6,Minnesota Twins,0
+2026-05-26,San Francisco Giants,Arizona Diamondbacks,Arizona Diamondbacks (🔥 CALIENTE),📦 VOLUMEN,75.8,Arizona Diamondbacks,0
+2026-05-26,Baltimore Orioles,Tampa Bay Rays,Tampa Bay Rays,📦 VOLUMEN,75.0,Baltimore Orioles,0
+2026-05-26,New York Mets,Cincinnati Reds,Cincinnati Reds (🔥 CALIENTE),📦 VOLUMEN,74.7,Cincinnati Reds,0
+2026-05-26,Milwaukee Brewers,St. Louis Cardinals,Milwaukee Brewers,📦 VOLUMEN,70.8,Milwaukee Brewers,1
+2026-05-26,Los Angeles Dodgers,Colorado Rockies,Los Angeles Dodgers (🔥 CALIENTE),📦 VOLUMEN,70.7,Los Angeles Dodgers,0
+2026-05-26,Texas Rangers,Houston Astros,Houston Astros (🔥 CALIENTE),📦 VOLUMEN,65.3,Texas Rangers,0
+2026-05-26,Toronto Blue Jays,Miami Marlins,Toronto Blue Jays,📊 STANDARD,64.9,Toronto Blue Jays,1
+2026-05-26,Athletics,Seattle Mariners,Seattle Mariners,📊 STANDARD,64.9,Seattle Mariners,1
+2026-05-26,San Diego Padres,Philadelphia Phillies,Philadelphia Phillies,📊 STANDARD,64.5,Philadelphia Phillies,1
+2026-05-26,Pittsburgh Pirates,Chicago Cubs,Pittsburgh Pirates,📊 STANDARD,63.8,Pittsburgh Pirates,1
+2026-05-26,Boston Red Sox,Atlanta Braves,Boston Red Sox,📊 STANDARD,54.6,Atlanta Braves,0
+2026-05-26,Detroit Tigers,Los Angeles Angels,Detroit Tigers,📊 STANDARD,54.2,Los Angeles Angels,0
+2026-05-27,Los Angeles Dodgers,Colorado Rockies,Los Angeles Dodgers (🔥 CALIENTE),💎 GOD,95.8,Los Angeles Dodgers,0
+2026-05-27,Cleveland Guardians,Washington Nationals,Cleveland Guardians (❄️ FRÍO),🎯 SNIPER,80.3,Cleveland Guardians,0
+2026-05-27,Pittsburgh Pirates,Chicago Cubs,Pittsburgh Pirates,📦 VOLUMEN,76.9,Chicago Cubs,0
+2026-05-27,Milwaukee Brewers,St. Louis Cardinals,St. Louis Cardinals,📦 VOLUMEN,75.7,Milwaukee Brewers,0
+2026-05-27,New York Mets,Cincinnati Reds,New York Mets (❄️ FRÍO),📦 VOLUMEN,74.6,New York Mets,0
+2026-05-27,Kansas City Royals,New York Yankees,New York Yankees,📦 VOLUMEN,74.5,New York Yankees,1
+2026-05-27,Texas Rangers,Houston Astros,Houston Astros (🔥 CALIENTE),📦 VOLUMEN,65.6,Houston Astros,0
+2026-05-27,Boston Red Sox,Atlanta Braves,Boston Red Sox,📦 VOLUMEN,65.3,Boston Red Sox,1
+2026-05-27,Athletics,Seattle Mariners,Athletics,📊 STANDARD,64.1,Seattle Mariners,0
+2026-05-27,Detroit Tigers,Los Angeles Angels,Los Angeles Angels (🔥 CALIENTE),📊 STANDARD,57.0,Detroit Tigers,0
+2026-05-27,Chicago White Sox,Minnesota Twins,Minnesota Twins (🔥 CALIENTE),📊 STANDARD,56.2,Chicago White Sox,0
+2026-05-27,San Diego Padres,Philadelphia Phillies,San Diego Padres,📊 STANDARD,55.7,Philadelphia Phillies,0
+2026-05-27,San Francisco Giants,Arizona Diamondbacks,San Francisco Giants (⚠️ ALTA VOL ❄️ FRÍO ❌ EVITAR),📊 STANDARD,52.5,Arizona Diamondbacks,0
+2026-05-27,Baltimore Orioles,Tampa Bay Rays,Baltimore Orioles (🔥 CALIENTE),📊 STANDARD,51.9,Baltimore Orioles,0
+2026-05-27,Toronto Blue Jays,Miami Marlins,Miami Marlins,📊 STANDARD,51.4,Toronto Blue Jays,0
+2026-05-28,Detroit Tigers,Los Angeles Angels,Los Angeles Angels (🔥 CALIENTE),🎯 SNIPER,79.6,Los Angeles Angels,0
+2026-05-28,Texas Rangers,Houston Astros,Houston Astros (🔥 CALIENTE),📦 VOLUMEN,75.0,Houston Astros,0
+2026-05-28,Pittsburgh Pirates,Chicago Cubs,Pittsburgh Pirates,📦 VOLUMEN,65.5,Chicago Cubs,0
+2026-05-28,Boston Red Sox,Atlanta Braves,Atlanta Braves,📊 STANDARD,53.0,Atlanta Braves,1
+2026-05-28,Chicago White Sox,Minnesota Twins,Chicago White Sox,📊 STANDARD,52.9,Chicago White Sox,1
+2026-05-28,Baltimore Orioles,Toronto Blue Jays,Baltimore Orioles (⚠️ ALTA VOL),📊 STANDARD,52.0,Toronto Blue Jays,0
+2026-05-29,Los Angeles Dodgers,Philadelphia Phillies,Los Angeles Dodgers,🎯 SNIPER,80.8,Los Angeles Dodgers,1
+2026-05-29,Chicago White Sox,Detroit Tigers,Detroit Tigers,📦 VOLUMEN,75.0,Chicago White Sox,0
+2026-05-29,Athletics,New York Yankees,New York Yankees (🔥 CALIENTE),📦 VOLUMEN,74.6,New York Yankees,0
+2026-05-29,Texas Rangers,Kansas City Royals,Texas Rangers,📦 VOLUMEN,73.3,Texas Rangers,1
+2026-05-29,St. Louis Cardinals,Chicago Cubs,Chicago Cubs (⚠️ ALTA VOL),📦 VOLUMEN,72.1,St. Louis Cardinals,0
+2026-05-29,Houston Astros,Milwaukee Brewers,Milwaukee Brewers,📦 VOLUMEN,66.5,Milwaukee Brewers,1
+2026-05-29,Cleveland Guardians,Boston Red Sox,Cleveland Guardians,📊 STANDARD,64.9,Cleveland Guardians,1
+2026-05-29,Baltimore Orioles,Toronto Blue Jays,Toronto Blue Jays,📊 STANDARD,64.7,Toronto Blue Jays,1
+2026-05-29,Pittsburgh Pirates,Minnesota Twins,Pittsburgh Pirates,📊 STANDARD,64.0,Pittsburgh Pirates,1
+2026-05-29,Cincinnati Reds,Atlanta Braves,Cincinnati Reds (⚠️ ALTA VOL),📊 STANDARD,60.3,Atlanta Braves,0
+2026-05-29,Colorado Rockies,San Francisco Giants,San Francisco Giants,📊 STANDARD,58.2,Colorado Rockies,0
+2026-05-29,Tampa Bay Rays,Los Angeles Angels,Los Angeles Angels (🔥 CALIENTE),📊 STANDARD,57.1,Tampa Bay Rays,0
+2026-05-29,Washington Nationals,San Diego Padres,Washington Nationals (🔥 CALIENTE),📊 STANDARD,56.2,San Diego Padres,0
+2026-05-29,Seattle Mariners,Arizona Diamondbacks,Seattle Mariners,📊 STANDARD,55.4,Seattle Mariners,1
+2026-05-29,New York Mets,Miami Marlins,Miami Marlins,📊 STANDARD,52.5,New York Mets,0
+2026-05-30,St. Louis Cardinals,Chicago Cubs,St. Louis Cardinals,💎 GOD,84.3,Chicago Cubs,0
+2026-05-30,Chicago White Sox,Detroit Tigers,Chicago White Sox (🔥 CALIENTE),💎 GOD,84.1,Chicago White Sox,0
+2026-05-30,Athletics,New York Yankees,Athletics (❄️ FRÍO),🎯 SNIPER,84.1,Athletics,0
+2026-05-30,Texas Rangers,Kansas City Royals,Kansas City Royals,💎 GOD,83.3,Texas Rangers,0
+2026-05-30,Washington Nationals,San Diego Padres,San Diego Padres,🎯 SNIPER,83.2,Washington Nationals,0
+2026-05-30,New York Mets,Miami Marlins,Miami Marlins,🎯 SNIPER,83.1,New York Mets,0
+2026-05-30,Cincinnati Reds,Atlanta Braves,Atlanta Braves,💎 GOD,83.1,Atlanta Braves,1
+2026-05-30,Pittsburgh Pirates,Minnesota Twins,Pittsburgh Pirates,🎯 SNIPER,82.0,Pittsburgh Pirates,1
+2026-05-30,Baltimore Orioles,Toronto Blue Jays,Toronto Blue Jays,🎯 SNIPER,79.7,Baltimore Orioles,0
+2026-05-30,Los Angeles Dodgers,Philadelphia Phillies,Los Angeles Dodgers,🎯 SNIPER,79.3,Philadelphia Phillies,0
+2026-05-30,Colorado Rockies,San Francisco Giants,Colorado Rockies,🎯 SNIPER,79.1,Colorado Rockies,1
+2026-05-30,Seattle Mariners,Arizona Diamondbacks,Arizona Diamondbacks (⚠️ ALTA VOL),📦 VOLUMEN,74.9,Seattle Mariners,0
+2026-05-30,Houston Astros,Milwaukee Brewers,Houston Astros,📦 VOLUMEN,70.7,Houston Astros,1
+2026-05-30,Tampa Bay Rays,Los Angeles Angels,Los Angeles Angels,📦 VOLUMEN,68.1,Los Angeles Angels,1
+2026-05-30,Cleveland Guardians,Boston Red Sox,Boston Red Sox,📦 VOLUMEN,67.7,Boston Red Sox,1
+2026-05-31,Los Angeles Dodgers,Philadelphia Phillies,Los Angeles Dodgers,💎 GOD,95.9,Los Angeles Dodgers,1
+2026-05-31,Athletics,New York Yankees,New York Yankees (🔥 CALIENTE),💎 GOD,84.8,New York Yankees,0
+2026-05-31,Cleveland Guardians,Boston Red Sox,Boston Red Sox,🎯 SNIPER,78.2,Boston Red Sox,1
+2026-05-31,St. Louis Cardinals,Chicago Cubs,St. Louis Cardinals,🎯 SNIPER,78.0,St. Louis Cardinals,1
+2026-05-31,Pittsburgh Pirates,Minnesota Twins,Pittsburgh Pirates,📦 VOLUMEN,77.6,Pittsburgh Pirates,1
+2026-05-31,Tampa Bay Rays,Los Angeles Angels,Tampa Bay Rays,📦 VOLUMEN,77.4,Tampa Bay Rays,1
+2026-05-31,Texas Rangers,Kansas City Royals,Kansas City Royals,📦 VOLUMEN,71.4,Texas Rangers,0
+2026-05-31,Houston Astros,Milwaukee Brewers,Milwaukee Brewers,📦 VOLUMEN,69.7,Milwaukee Brewers,1
+2026-05-31,Seattle Mariners,Arizona Diamondbacks,Seattle Mariners,📦 VOLUMEN,69.7,Seattle Mariners,1
+2026-05-31,Cincinnati Reds,Atlanta Braves,Cincinnati Reds (❄️ FRÍO),📦 VOLUMEN,69.1,Cincinnati Reds,0
+2026-05-31,Chicago White Sox,Detroit Tigers,Chicago White Sox (🔥 CALIENTE),📦 VOLUMEN,67.3,Chicago White Sox,0
+2026-05-31,Baltimore Orioles,Toronto Blue Jays,Baltimore Orioles,📊 STANDARD,64.9,Baltimore Orioles,1
+2026-05-31,New York Mets,Miami Marlins,New York Mets (⚠️ ALTA VOL),📊 STANDARD,61.400000000000006,New York Mets,0
+2026-05-31,Colorado Rockies,San Francisco Giants,San Francisco Giants,📊 STANDARD,61.0,San Francisco Giants,1
+2026-05-31,Washington Nationals,San Diego Padres,Washington Nationals (⚠️ ALTA VOL),📊 STANDARD,52.8,Washington Nationals,0
+2026-06-01,Arizona Diamondbacks,Los Angeles Dodgers,Los Angeles Dodgers (🔥 CALIENTE),🎯 SNIPER,79.4,Arizona Diamondbacks,0
+2026-06-01,Washington Nationals,Miami Marlins,Washington Nationals,🎯 SNIPER,78.7,Miami Marlins,0
+2026-06-01,Los Angeles Angels,Colorado Rockies,Los Angeles Angels,📦 VOLUMEN,70.5,Colorado Rockies,0
+2026-06-01,Cincinnati Reds,Kansas City Royals,Kansas City Royals,📊 STANDARD,64.9,Kansas City Royals,1
+2026-06-01,Minnesota Twins,Chicago White Sox,Minnesota Twins (❄️ FRÍO),📊 STANDARD,64.9,Minnesota Twins,0
+2026-06-01,Milwaukee Brewers,San Francisco Giants,Milwaukee Brewers (🔥 CALIENTE),📊 STANDARD,58.2,Milwaukee Brewers,0
+2026-06-01,St. Louis Cardinals,Texas Rangers,Texas Rangers (⚠️ ALTA VOL),📊 STANDARD,57.4,Texas Rangers,0
+2026-06-01,Tampa Bay Rays,Detroit Tigers,Tampa Bay Rays,📊 STANDARD,56.9,Detroit Tigers,0
+2026-06-01,Seattle Mariners,New York Mets,New York Mets,📊 STANDARD,56.3,Seattle Mariners,0
+2026-06-02,Milwaukee Brewers,San Francisco Giants,Milwaukee Brewers (🔥 CALIENTE),📦 VOLUMEN,77.1,Milwaukee Brewers,0
+2026-06-02,New York Yankees,Cleveland Guardians,New York Yankees (🔥 CALIENTE),📦 VOLUMEN,76.5,Cleveland Guardians,0
+2026-06-02,Seattle Mariners,New York Mets,Seattle Mariners,📦 VOLUMEN,74.6,Seattle Mariners,1
+2026-06-02,St. Louis Cardinals,Texas Rangers,St. Louis Cardinals (❄️ FRÍO),📦 VOLUMEN,73.7,Texas Rangers,0
+2026-06-02,Cincinnati Reds,Kansas City Royals,Kansas City Royals,📦 VOLUMEN,73.5,Cincinnati Reds,0
+2026-06-02,Los Angeles Angels,Colorado Rockies,Colorado Rockies,📦 VOLUMEN,70.1,Colorado Rockies,1
+2026-06-02,Atlanta Braves,Toronto Blue Jays,Atlanta Braves,📦 VOLUMEN,70.0,Atlanta Braves,1
+2026-06-02,Arizona Diamondbacks,Los Angeles Dodgers,Los Angeles Dodgers,📦 VOLUMEN,69.0,Los Angeles Dodgers,1
+2026-06-02,Washington Nationals,Miami Marlins,Washington Nationals,📊 STANDARD,64.9,Miami Marlins,0
+2026-06-02,Philadelphia Phillies,San Diego Padres,Philadelphia Phillies,📊 STANDARD,60.9,Philadelphia Phillies,1
+2026-06-02,Chicago Cubs,Athletics,Chicago Cubs,📊 STANDARD,60.3,Athletics,0
+2026-06-02,Houston Astros,Pittsburgh Pirates,Houston Astros,📊 STANDARD,57.2,Pittsburgh Pirates,0
+2026-06-02,Minnesota Twins,Chicago White Sox,Chicago White Sox (🔥 CALIENTE),📊 STANDARD,55.9,Minnesota Twins,0
+2026-06-02,Tampa Bay Rays,Detroit Tigers,Tampa Bay Rays,📊 STANDARD,55.6,Detroit Tigers,0
+2026-06-02,Boston Red Sox,Baltimore Orioles,Baltimore Orioles,📊 STANDARD,54.1,Baltimore Orioles,1
+2026-06-03,St. Louis Cardinals,Texas Rangers,St. Louis Cardinals,🎯 SNIPER,82.6,St. Louis Cardinals,1
+2026-06-03,Chicago Cubs,Athletics,Chicago Cubs,🎯 SNIPER,82.3,Athletics,0
+2026-06-03,Boston Red Sox,Baltimore Orioles,Boston Red Sox,🎯 SNIPER,78.5,Boston Red Sox,1
+2026-06-03,Arizona Diamondbacks,Los Angeles Dodgers,Los Angeles Dodgers,🎯 SNIPER,78.3,Los Angeles Dodgers,1
+2026-06-03,Los Angeles Angels,Colorado Rockies,Los Angeles Angels,🎯 SNIPER,78.2,Los Angeles Angels,1
+2026-06-03,Philadelphia Phillies,San Diego Padres,Philadelphia Phillies,📦 VOLUMEN,72.7,Philadelphia Phillies,1
+2026-06-03,Seattle Mariners,New York Mets,New York Mets,📦 VOLUMEN,70.6,New York Mets,1
+2026-06-03,Minnesota Twins,Chicago White Sox,Chicago White Sox,📦 VOLUMEN,70.0,Chicago White Sox,1
+2026-06-03,Atlanta Braves,Toronto Blue Jays,Atlanta Braves,📦 VOLUMEN,69.5,Atlanta Braves,1
+2026-06-03,Cincinnati Reds,Kansas City Royals,Cincinnati Reds,📦 VOLUMEN,69.1,Kansas City Royals,0
+2026-06-03,New York Yankees,Cleveland Guardians,New York Yankees,📦 VOLUMEN,68.8,Cleveland Guardians,0
+2026-06-03,Washington Nationals,Miami Marlins,Washington Nationals,📦 VOLUMEN,68.6,Miami Marlins,0
+2026-06-03,Milwaukee Brewers,San Francisco Giants,San Francisco Giants,📊 STANDARD,60.1,San Francisco Giants,1
+2026-06-03,Houston Astros,Pittsburgh Pirates,Houston Astros,📊 STANDARD,57.3,Houston Astros,1
+2026-06-03,Tampa Bay Rays,Detroit Tigers,Detroit Tigers,📊 STANDARD,54.6,Detroit Tigers,1
+2026-06-04,Chicago Cubs,Athletics,Athletics,💎 GOD,83.8,Chicago Cubs,0
+2026-06-04,Philadelphia Phillies,San Diego Padres,Philadelphia Phillies,💎 GOD,82.6,Philadelphia Phillies,1
+2026-06-04,Houston Astros,Pittsburgh Pirates,Pittsburgh Pirates,🎯 SNIPER,79.3,Pittsburgh Pirates,1
+2026-06-04,Minnesota Twins,Kansas City Royals,Minnesota Twins,🎯 SNIPER,78.0,Kansas City Royals,0
+2026-06-04,New York Yankees,Cleveland Guardians,New York Yankees,📦 VOLUMEN,75.1,New York Yankees,1
+2026-06-04,Boston Red Sox,Baltimore Orioles,Baltimore Orioles,📦 VOLUMEN,71.8,Baltimore Orioles,1
+2026-06-04,Arizona Diamondbacks,Los Angeles Dodgers,Los Angeles Dodgers,📊 STANDARD,61.6,Arizona Diamondbacks,0
+2026-06-04,Milwaukee Brewers,San Francisco Giants,Milwaukee Brewers,📊 STANDARD,60.7,San Francisco Giants,0
+2026-06-04,Atlanta Braves,Toronto Blue Jays,Atlanta Braves,📊 STANDARD,58.6,Toronto Blue Jays,0
+2026-06-05,Detroit Tigers,Seattle Mariners,Seattle Mariners,💎 GOD,82.5,Detroit Tigers,0
+2026-06-05,Arizona Diamondbacks,Washington Nationals,Arizona Diamondbacks,💎 GOD,82.3,Washington Nationals,0
+2026-06-05,Miami Marlins,Tampa Bay Rays,Tampa Bay Rays,💎 GOD,80.9,Tampa Bay Rays,1
+2026-06-05,Texas Rangers,Cleveland Guardians,Cleveland Guardians,🎯 SNIPER,78.6,Texas Rangers,0
+2026-06-05,Chicago Cubs,San Francisco Giants,San Francisco Giants,📦 VOLUMEN,77.3,San Francisco Giants,1
+2026-06-05,Philadelphia Phillies,Chicago White Sox,Philadelphia Phillies,📦 VOLUMEN,76.6,Philadelphia Phillies,1
+2026-06-05,New York Yankees,Boston Red Sox,New York Yankees,📦 VOLUMEN,74.4,Boston Red Sox,0
+2026-06-05,Toronto Blue Jays,Baltimore Orioles,Toronto Blue Jays,📦 VOLUMEN,72.1,Baltimore Orioles,0
+2026-06-05,Minnesota Twins,Kansas City Royals,Kansas City Royals,📦 VOLUMEN,71.9,Minnesota Twins,0
+2026-06-05,Atlanta Braves,Pittsburgh Pirates,Pittsburgh Pirates,📦 VOLUMEN,71.1,Atlanta Braves,0
+2026-06-05,Los Angeles Dodgers,Los Angeles Angels,Los Angeles Dodgers,📦 VOLUMEN,70.9,Los Angeles Dodgers,1
+2026-06-05,San Diego Padres,New York Mets,San Diego Padres,📊 STANDARD,58.6,New York Mets,0
+2026-06-05,St. Louis Cardinals,Cincinnati Reds,Cincinnati Reds,📊 STANDARD,58.2,St. Louis Cardinals,0
+2026-06-05,Houston Astros,Athletics,Houston Astros,📊 STANDARD,57.9,Houston Astros,1
+2026-06-05,Colorado Rockies,Milwaukee Brewers,Colorado Rockies,📊 STANDARD,55.7,Milwaukee Brewers,0

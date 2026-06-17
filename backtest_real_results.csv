@@ -1,0 +1,148 @@
+date,home,away,pick,prob,conf,tier,consensus,actual_winner,hit
+2024-04-01,Washington Nationals,Pittsburgh Pirates,Pittsburgh Pirates,0.0782,90.9,GOD,4,Pittsburgh Pirates,1
+2024-04-01,Tampa Bay Rays,Texas Rangers,Texas Rangers,0.1089,86.2,GOD,4,Texas Rangers,1
+2024-04-01,Seattle Mariners,Cleveland Guardians,Seattle Mariners,0.7979,77.6,VOLUMEN,4,Seattle Mariners,1
+2024-04-01,San Diego Padres,St. Louis Cardinals,St. Louis Cardinals,0.2811,69.0,VOLUMEN,3,St. Louis Cardinals,1
+2024-04-01,Philadelphia Phillies,Cincinnati Reds,Cincinnati Reds,0.4311,56.5,STANDARD,2,Cincinnati Reds,1
+2024-04-01,Oakland Athletics,Boston Red Sox,Boston Red Sox,0.0804,90.9,GOD,4,Boston Red Sox,1
+2024-04-01,New York Mets,Detroit Tigers,Detroit Tigers,0.2008,77.6,VOLUMEN,3,Detroit Tigers,1
+2024-04-01,Miami Marlins,Los Angeles Angels,Miami Marlins,0.8096,77.0,VOLUMEN,4,Los Angeles Angels,0
+2024-04-01,Los Angeles Dodgers,San Francisco Giants,San Francisco Giants,0.2873,69.0,VOLUMEN,2,Los Angeles Dodgers,0
+2024-04-01,Houston Astros,Toronto Blue Jays,Houston Astros,0.8629,86.2,GOD,4,Houston Astros,1
+2024-04-01,Chicago White Sox,Atlanta Braves,Atlanta Braves,0.1131,86.2,GOD,4,Atlanta Braves,1
+2024-04-01,Chicago Cubs,Colorado Rockies,Colorado Rockies,0.3588,64.6,STANDARD,1,Chicago Cubs,0
+2024-04-01,Baltimore Orioles,Kansas City Royals,Kansas City Royals,0.4668,46.8,STANDARD,1,Baltimore Orioles,0
+2024-04-01,Arizona Diamondbacks,New York Yankees,New York Yankees,0.0466,95.3,GOD,4,New York Yankees,1
+2024-04-02,Tampa Bay Rays,Texas Rangers,Texas Rangers,0.0906,90.9,GOD,3,Tampa Bay Rays,0
+2024-04-02,Seattle Mariners,Cleveland Guardians,Cleveland Guardians,0.1024,86.2,GOD,4,Cleveland Guardians,1
+2024-04-02,San Diego Padres,St. Louis Cardinals,San Diego Padres,0.601,64.6,STANDARD,4,St. Louis Cardinals,0
+2024-04-02,Philadelphia Phillies,Cincinnati Reds,Cincinnati Reds,0.4966,46.8,STANDARD,1,Philadelphia Phillies,0
+2024-04-02,Oakland Athletics,Boston Red Sox,Boston Red Sox,0.4451,56.5,STANDARD,1,Boston Red Sox,1
+2024-04-02,Milwaukee Brewers,Minnesota Twins,Milwaukee Brewers,0.7023,69.0,VOLUMEN,4,Milwaukee Brewers,1
+2024-04-02,Miami Marlins,Los Angeles Angels,Los Angeles Angels,0.2062,77.6,VOLUMEN,2,Los Angeles Angels,1
+2024-04-02,Los Angeles Dodgers,San Francisco Giants,Los Angeles Dodgers,0.7817,77.6,VOLUMEN,4,Los Angeles Dodgers,1
+2024-04-02,Houston Astros,Toronto Blue Jays,Toronto Blue Jays,0.3983,64.6,STANDARD,1,Toronto Blue Jays,1
+2024-04-02,Chicago White Sox,Atlanta Braves,Atlanta Braves,0.4169,56.5,STANDARD,1,Chicago White Sox,0
+2024-04-02,Chicago Cubs,Colorado Rockies,Colorado Rockies,0.3786,64.6,STANDARD,1,Chicago Cubs,0
+2024-04-02,Baltimore Orioles,Kansas City Royals,Kansas City Royals,0.0546,90.9,GOD,4,Kansas City Royals,1
+2024-04-02,Arizona Diamondbacks,New York Yankees,Arizona Diamondbacks,0.781,77.6,VOLUMEN,4,Arizona Diamondbacks,1
+2024-04-03,Washington Nationals,Pittsburgh Pirates,Washington Nationals,0.5532,56.5,STANDARD,4,Washington Nationals,1
+2024-04-03,Tampa Bay Rays,Texas Rangers,Texas Rangers,0.2451,77.6,VOLUMEN,2,Texas Rangers,1
+2024-04-03,Seattle Mariners,Cleveland Guardians,Cleveland Guardians,0.0608,90.9,GOD,4,Cleveland Guardians,1
+2024-04-03,San Diego Padres,St. Louis Cardinals,St. Louis Cardinals,0.469,46.8,STANDARD,1,San Diego Padres,0
+2024-04-03,Philadelphia Phillies,Cincinnati Reds,Philadelphia Phillies,0.6249,64.6,STANDARD,4,Cincinnati Reds,0
+2024-04-03,Oakland Athletics,Boston Red Sox,Boston Red Sox,0.1447,86.2,GOD,4,Boston Red Sox,1
+2024-04-03,Milwaukee Brewers,Minnesota Twins,Milwaukee Brewers,0.6458,64.6,STANDARD,4,Minnesota Twins,0
+2024-04-03,Miami Marlins,Los Angeles Angels,Los Angeles Angels,0.1017,86.2,GOD,3,Los Angeles Angels,1
+2024-04-03,Los Angeles Dodgers,San Francisco Giants,San Francisco Giants,0.3943,64.6,STANDARD,1,Los Angeles Dodgers,0
+2024-04-03,Houston Astros,Toronto Blue Jays,Houston Astros,0.6694,58.5,STANDARD,4,Houston Astros,1
+2024-04-03,Chicago Cubs,Colorado Rockies,Chicago Cubs,0.7705,77.6,VOLUMEN,4,Chicago Cubs,1
+2024-04-03,Baltimore Orioles,Kansas City Royals,Kansas City Royals,0.3188,58.5,STANDARD,1,Baltimore Orioles,0
+2024-04-03,Arizona Diamondbacks,New York Yankees,Arizona Diamondbacks,0.6244,64.6,STANDARD,4,New York Yankees,0
+2024-04-04,Washington Nationals,Pittsburgh Pirates,Pittsburgh Pirates,0.0606,90.9,GOD,4,Pittsburgh Pirates,1
+2024-04-04,St. Louis Cardinals,Miami Marlins,Miami Marlins,0.2492,77.6,VOLUMEN,2,St. Louis Cardinals,0
+2024-04-04,New York Mets,Detroit Tigers,New York Mets,0.6032,64.6,STANDARD,4,Detroit Tigers,0
+2024-04-04,Minnesota Twins,Cleveland Guardians,Cleveland Guardians,0.2479,77.6,VOLUMEN,1,Cleveland Guardians,1
+2024-04-04,Kansas City Royals,Chicago White Sox,Kansas City Royals,0.7148,69.0,VOLUMEN,4,Kansas City Royals,1
+2024-04-05,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,0.2548,69.0,VOLUMEN,2,Philadelphia Phillies,1
+2024-04-05,Texas Rangers,Houston Astros,Texas Rangers,0.8446,77.0,VOLUMEN,4,Texas Rangers,1
+2024-04-05,San Francisco Giants,San Diego Padres,San Francisco Giants,0.5811,56.5,STANDARD,4,San Francisco Giants,1
+2024-04-05,Pittsburgh Pirates,Baltimore Orioles,Baltimore Orioles,0.2263,77.6,VOLUMEN,1,Baltimore Orioles,1
+2024-04-05,New York Yankees,Toronto Blue Jays,Toronto Blue Jays,0.165,77.0,VOLUMEN,1,Toronto Blue Jays,1
+2024-04-05,Milwaukee Brewers,Seattle Mariners,Seattle Mariners,0.4155,56.5,STANDARD,1,Milwaukee Brewers,0
+2024-04-05,Los Angeles Angels,Boston Red Sox,Boston Red Sox,0.0405,95.9,GOD,4,Boston Red Sox,1
+2024-04-05,Kansas City Royals,Chicago White Sox,Kansas City Royals,0.5879,56.5,STANDARD,4,Kansas City Royals,1
+2024-04-05,Detroit Tigers,Oakland Athletics,Detroit Tigers,0.57,56.5,STANDARD,4,Detroit Tigers,1
+2024-04-05,Colorado Rockies,Tampa Bay Rays,Tampa Bay Rays,0.204,77.6,VOLUMEN,2,Colorado Rockies,0
+2024-04-05,Cincinnati Reds,New York Mets,New York Mets,0.3305,58.5,STANDARD,1,New York Mets,1
+2024-04-05,Chicago Cubs,Los Angeles Dodgers,Los Angeles Dodgers,0.2106,77.6,VOLUMEN,2,Chicago Cubs,0
+2024-04-05,Atlanta Braves,Arizona Diamondbacks,Arizona Diamondbacks,0.1045,86.2,GOD,2,Atlanta Braves,0
+2024-04-06,Washington Nationals,Philadelphia Phillies,Washington Nationals,0.6109,64.6,STANDARD,4,Philadelphia Phillies,0
+2024-04-06,Texas Rangers,Houston Astros,Houston Astros,0.1644,77.0,VOLUMEN,3,Texas Rangers,0
+2024-04-06,St. Louis Cardinals,Miami Marlins,St. Louis Cardinals,0.7827,77.6,VOLUMEN,4,St. Louis Cardinals,1
+2024-04-06,San Francisco Giants,San Diego Padres,San Diego Padres,0.096,90.9,GOD,3,San Diego Padres,1
+2024-04-06,Pittsburgh Pirates,Baltimore Orioles,Pittsburgh Pirates,0.5586,56.5,STANDARD,4,Pittsburgh Pirates,1
+2024-04-06,New York Yankees,Toronto Blue Jays,Toronto Blue Jays,0.3491,58.5,STANDARD,1,New York Yankees,0
+2024-04-06,Minnesota Twins,Cleveland Guardians,Minnesota Twins,0.5136,46.8,STANDARD,4,Cleveland Guardians,0
+2024-04-06,Milwaukee Brewers,Seattle Mariners,Seattle Mariners,0.0819,90.9,GOD,3,Seattle Mariners,1
+2024-04-06,Los Angeles Angels,Boston Red Sox,Boston Red Sox,0.3246,58.5,STANDARD,2,Los Angeles Angels,0
+2024-04-06,Kansas City Royals,Chicago White Sox,Kansas City Royals,0.8443,77.0,VOLUMEN,4,Kansas City Royals,1
+2024-04-06,Detroit Tigers,Oakland Athletics,Oakland Athletics,0.0738,90.9,GOD,3,Oakland Athletics,1
+2024-04-06,Colorado Rockies,Tampa Bay Rays,Colorado Rockies,0.8071,77.0,VOLUMEN,4,Tampa Bay Rays,0
+2024-04-06,Cincinnati Reds,New York Mets,New York Mets,0.0841,90.9,GOD,3,Cincinnati Reds,0
+2024-04-06,Chicago Cubs,Los Angeles Dodgers,Los Angeles Dodgers,0.3046,58.5,STANDARD,3,Los Angeles Dodgers,1
+2024-04-06,Atlanta Braves,Arizona Diamondbacks,Arizona Diamondbacks,0.0691,90.9,GOD,3,Atlanta Braves,0
+2024-04-07,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,0.2354,77.6,VOLUMEN,2,Washington Nationals,0
+2024-04-07,Texas Rangers,Houston Astros,Houston Astros,0.1444,86.2,GOD,2,Houston Astros,1
+2024-04-07,St. Louis Cardinals,Miami Marlins,Miami Marlins,0.1044,86.2,GOD,3,Miami Marlins,1
+2024-04-07,San Francisco Giants,San Diego Padres,San Diego Padres,0.1959,77.0,VOLUMEN,3,San Francisco Giants,0
+2024-04-07,Pittsburgh Pirates,Baltimore Orioles,Baltimore Orioles,0.3797,64.6,STANDARD,1,Pittsburgh Pirates,0
+2024-04-07,New York Yankees,Toronto Blue Jays,New York Yankees,0.8794,86.2,GOD,4,New York Yankees,1
+2024-04-07,Milwaukee Brewers,Seattle Mariners,Milwaukee Brewers,0.8513,86.2,GOD,4,Milwaukee Brewers,1
+2024-04-07,Los Angeles Angels,Boston Red Sox,Boston Red Sox,0.0806,90.9,GOD,3,Boston Red Sox,1
+2024-04-07,Kansas City Royals,Chicago White Sox,Chicago White Sox,0.2159,77.6,VOLUMEN,1,Kansas City Royals,0
+2024-04-07,Detroit Tigers,Oakland Athletics,Oakland Athletics,0.183,77.0,VOLUMEN,2,Oakland Athletics,1
+2024-04-07,Colorado Rockies,Tampa Bay Rays,Tampa Bay Rays,0.369,64.6,STANDARD,2,Tampa Bay Rays,1
+2024-04-07,Cincinnati Reds,New York Mets,New York Mets,0.1262,86.2,SNIPER,2,New York Mets,1
+2024-04-07,Chicago Cubs,Los Angeles Dodgers,Chicago Cubs,0.7539,77.6,VOLUMEN,4,Chicago Cubs,1
+2024-04-07,Atlanta Braves,Arizona Diamondbacks,Arizona Diamondbacks,0.3982,64.6,STANDARD,1,Atlanta Braves,0
+2024-04-08,Toronto Blue Jays,Seattle Mariners,Toronto Blue Jays,0.7586,77.6,VOLUMEN,4,Toronto Blue Jays,1
+2024-04-08,Texas Rangers,Houston Astros,Texas Rangers,0.7881,77.6,VOLUMEN,4,Houston Astros,0
+2024-04-08,St. Louis Cardinals,Philadelphia Phillies,Philadelphia Phillies,0.2866,69.0,VOLUMEN,1,Philadelphia Phillies,1
+2024-04-08,San Francisco Giants,Washington Nationals,Washington Nationals,0.1141,86.2,GOD,4,Washington Nationals,1
+2024-04-08,San Diego Padres,Chicago Cubs,Chicago Cubs,0.2296,77.6,VOLUMEN,2,San Diego Padres,0
+2024-04-08,Pittsburgh Pirates,Detroit Tigers,Pittsburgh Pirates,0.5962,56.5,STANDARD,4,Pittsburgh Pirates,1
+2024-04-08,New York Yankees,Miami Marlins,New York Yankees,0.8518,86.2,SNIPER,4,New York Yankees,1
+2024-04-08,Minnesota Twins,Los Angeles Dodgers,Los Angeles Dodgers,0.1886,77.0,VOLUMEN,2,Los Angeles Dodgers,1
+2024-04-08,Los Angeles Angels,Tampa Bay Rays,Tampa Bay Rays,0.3584,64.6,STANDARD,1,Los Angeles Angels,0
+2024-04-08,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,0.0743,90.9,GOD,3,Colorado Rockies,0
+2024-04-08,Cleveland Guardians,Chicago White Sox,Chicago White Sox,0.2669,69.0,VOLUMEN,2,Cleveland Guardians,0
+2024-04-08,Cincinnati Reds,Milwaukee Brewers,Milwaukee Brewers,0.4229,56.5,STANDARD,1,Cincinnati Reds,0
+2024-04-08,Atlanta Braves,New York Mets,Atlanta Braves,0.7022,69.0,VOLUMEN,4,New York Mets,0
+2024-04-09,Toronto Blue Jays,Seattle Mariners,Toronto Blue Jays,0.7137,69.0,VOLUMEN,4,Toronto Blue Jays,1
+2024-04-09,Texas Rangers,Oakland Athletics,Texas Rangers,0.7882,77.6,VOLUMEN,4,Oakland Athletics,0
+2024-04-09,St. Louis Cardinals,Philadelphia Phillies,Philadelphia Phillies,0.339,58.5,STANDARD,1,St. Louis Cardinals,0
+2024-04-09,San Francisco Giants,Washington Nationals,Washington Nationals,0.1992,77.0,VOLUMEN,2,Washington Nationals,1
+2024-04-09,San Diego Padres,Chicago Cubs,Chicago Cubs,0.2165,77.6,VOLUMEN,2,Chicago Cubs,1
+2024-04-09,Pittsburgh Pirates,Detroit Tigers,Pittsburgh Pirates,0.7938,77.6,VOLUMEN,4,Detroit Tigers,0
+2024-04-09,New York Yankees,Miami Marlins,New York Yankees,0.5018,46.8,STANDARD,4,New York Yankees,1
+2024-04-09,Minnesota Twins,Los Angeles Dodgers,Los Angeles Dodgers,0.063,90.9,GOD,4,Los Angeles Dodgers,1
+2024-04-09,Los Angeles Angels,Tampa Bay Rays,Tampa Bay Rays,0.1315,86.2,GOD,3,Tampa Bay Rays,1
+2024-04-09,Kansas City Royals,Houston Astros,Houston Astros,0.2306,77.6,VOLUMEN,2,Kansas City Royals,0
+2024-04-09,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,0.0822,90.9,GOD,4,Arizona Diamondbacks,1
+2024-04-09,Cleveland Guardians,Chicago White Sox,Cleveland Guardians,0.6895,58.5,STANDARD,4,Chicago White Sox,0
+2024-04-09,Cincinnati Reds,Milwaukee Brewers,Milwaukee Brewers,0.1981,77.0,VOLUMEN,2,Milwaukee Brewers,1
+2024-04-09,Boston Red Sox,Baltimore Orioles,Baltimore Orioles,0.0917,90.9,GOD,3,Baltimore Orioles,1
+2024-04-09,Atlanta Braves,New York Mets,Atlanta Braves,0.7908,77.6,VOLUMEN,4,Atlanta Braves,1
+2024-04-10,Toronto Blue Jays,Seattle Mariners,Seattle Mariners,0.4121,56.5,STANDARD,2,Seattle Mariners,1
+2024-04-10,Texas Rangers,Oakland Athletics,Texas Rangers,0.8309,77.0,VOLUMEN,4,Texas Rangers,1
+2024-04-10,St. Louis Cardinals,Philadelphia Phillies,St. Louis Cardinals,0.5404,46.8,STANDARD,4,Philadelphia Phillies,0
+2024-04-10,San Francisco Giants,Washington Nationals,San Francisco Giants,0.8297,77.0,VOLUMEN,4,San Francisco Giants,1
+2024-04-10,San Diego Padres,Chicago Cubs,San Diego Padres,0.8164,77.0,VOLUMEN,4,San Diego Padres,1
+2024-04-10,New York Yankees,Miami Marlins,Miami Marlins,0.2876,69.0,VOLUMEN,2,Miami Marlins,1
+2024-04-10,Minnesota Twins,Los Angeles Dodgers,Los Angeles Dodgers,0.3958,64.6,STANDARD,2,Minnesota Twins,0
+2024-04-10,Los Angeles Angels,Tampa Bay Rays,Tampa Bay Rays,0.1298,86.2,GOD,4,Tampa Bay Rays,1
+2024-04-10,Kansas City Royals,Houston Astros,Kansas City Royals,0.7929,77.6,VOLUMEN,4,Kansas City Royals,1
+2024-04-10,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,0.1291,86.2,GOD,2,Arizona Diamondbacks,1
+2024-04-10,Cleveland Guardians,Chicago White Sox,Chicago White Sox,0.1873,77.0,VOLUMEN,3,Cleveland Guardians,0
+2024-04-10,Cincinnati Reds,Milwaukee Brewers,Milwaukee Brewers,0.092,90.9,GOD,4,Milwaukee Brewers,1
+2024-04-10,Boston Red Sox,Baltimore Orioles,Boston Red Sox,0.7654,77.6,VOLUMEN,4,Baltimore Orioles,0
+2024-04-11,Texas Rangers,Oakland Athletics,Oakland Athletics,0.1757,77.0,VOLUMEN,2,Oakland Athletics,1
+2024-04-11,Philadelphia Phillies,Pittsburgh Pirates,Pittsburgh Pirates,0.4512,46.8,STANDARD,1,Philadelphia Phillies,0
+2024-04-11,Kansas City Royals,Houston Astros,Houston Astros,0.4876,46.8,STANDARD,1,Kansas City Royals,0
+2024-04-11,Boston Red Sox,Baltimore Orioles,Baltimore Orioles,0.4151,56.5,STANDARD,1,Baltimore Orioles,1
+2024-04-11,Atlanta Braves,New York Mets,New York Mets,0.0696,90.9,GOD,4,New York Mets,1
+2024-04-12,Toronto Blue Jays,Colorado Rockies,Colorado Rockies,0.1243,86.2,GOD,3,Colorado Rockies,1
+2024-04-12,Tampa Bay Rays,San Francisco Giants,San Francisco Giants,0.4589,46.8,STANDARD,2,Tampa Bay Rays,0
+2024-04-12,Seattle Mariners,Chicago Cubs,Seattle Mariners,0.8534,86.2,SNIPER,4,Seattle Mariners,1
+2024-04-12,Philadelphia Phillies,Pittsburgh Pirates,Philadelphia Phillies,0.52,46.8,STANDARD,4,Pittsburgh Pirates,0
+2024-04-12,Oakland Athletics,Washington Nationals,Oakland Athletics,0.5061,46.8,STANDARD,4,Oakland Athletics,1
+2024-04-12,New York Mets,Kansas City Royals,Kansas City Royals,0.4379,56.5,STANDARD,1,New York Mets,0
+2024-04-12,Miami Marlins,Atlanta Braves,Miami Marlins,0.545,46.8,STANDARD,4,Atlanta Braves,0
+2024-04-12,Los Angeles Dodgers,San Diego Padres,San Diego Padres,0.1559,77.0,VOLUMEN,2,San Diego Padres,1
+2024-04-12,Houston Astros,Texas Rangers,Texas Rangers,0.196,77.0,VOLUMEN,2,Texas Rangers,1
+2024-04-12,Detroit Tigers,Minnesota Twins,Detroit Tigers,0.6793,58.5,STANDARD,4,Detroit Tigers,1
+2024-04-12,Chicago White Sox,Cincinnati Reds,Cincinnati Reds,0.1057,86.2,GOD,4,Cincinnati Reds,1
+2024-04-12,Boston Red Sox,Los Angeles Angels,Los Angeles Angels,0.3322,58.5,STANDARD,1,Los Angeles Angels,1
+2024-04-12,Baltimore Orioles,Milwaukee Brewers,Milwaukee Brewers,0.0863,90.9,GOD,4,Milwaukee Brewers,1
+2024-04-12,Arizona Diamondbacks,St. Louis Cardinals,St. Louis Cardinals,0.1128,86.2,GOD,4,St. Louis Cardinals,1

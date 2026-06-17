@@ -1,0 +1,103 @@
+{
+  "version": "3.0",
+  "k_model": {
+    "algorithm": "XGBoost Regressor",
+    "features": 14,
+    "train_n": 5406,
+    "val_mae": 1.546,
+    "val_rmse": 1.976,
+    "val_corr": 0.583,
+    "val_o3.5_hit_rate_55": 0.782,
+    "val_o4.5_hit_rate_55": 0.748,
+    "val_o5.5_hit_rate_55": 0.821,
+    "val_o6.5_hit_rate_55": 0.895,
+    "holdout_mae": 1.445,
+    "holdout_corr": 0.621,
+    "holdout_o3.5_hit_rate_55": 0.821,
+    "holdout_o4.5_hit_rate_55": 0.818,
+    "holdout_o5.5_hit_rate_55": 1.0
+  },
+  "batter_models": {
+    "algorithm": "XGBoost Classifier",
+    "features": 35,
+    "train_n": 570,
+    "note": "Limited by pgs data coverage (1423 games)",
+    "h": {
+      "auc": 0.547,
+      "note": "weak signal"
+    },
+    "tb": {
+      "auc": 0.619,
+      "note": "decent"
+    },
+    "hr": {
+      "auc": 0.879,
+      "note": "excellent"
+    },
+    "r": {
+      "auc": 0.573,
+      "note": "weak signal"
+    }
+  },
+  "features_v3": [
+    "k9_l3",
+    "k9_l10",
+    "k9_szn",
+    "k9_car",
+    "xwoba",
+    "spin",
+    "ext",
+    "ev",
+    "barrel",
+    "strike_pct",
+    "ip_avg",
+    "chase",
+    "park",
+    "rest"
+  ],
+  "batter_features_v3": [
+    "l3_h",
+    "l3_r",
+    "l3_hr",
+    "l3_tb",
+    "l3_k",
+    "l10_h",
+    "l10_r",
+    "l10_hr",
+    "l10_tb",
+    "l10_k",
+    "szn_h",
+    "szn_r",
+    "szn_hr",
+    "szn_tb",
+    "szn_k",
+    "b_xwoba",
+    "b_ev",
+    "b_barrel",
+    "b_hardhit",
+    "b_batspeed",
+    "b_sweetspot",
+    "p_era",
+    "p_whip",
+    "p_k9",
+    "p_strikepct",
+    "p_l10_era",
+    "p_l10_k9",
+    "p_xwoba",
+    "p_spin",
+    "p_ext",
+    "p_ev",
+    "p_barrel",
+    "park",
+    "is_home",
+    "chase"
+  ],
+  "data_sources": [
+    "pitcher_performances",
+    "savant_pitcher_daily",
+    "savant_batter_daily",
+    "player_game_stats",
+    "batter_performances",
+    "historico_partidos"
+  ]
+}

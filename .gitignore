@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.bak
+*.backup*
+.env
+scratch/
+backtest_*.txt
+scan_output*.txt
+*.db
+data/
