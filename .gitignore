@@ -7,5 +7,11 @@ __pycache__/
 scratch/
 backtest_*.txt
 scan_output*.txt
-*.db
-data/
+/omega.db
+/omega_2026_BETA.db
+/mlb_historical.db
+/mlb_picks.db
+data/omega_2026_BETA.db.backup*
+data/*.db-shm
+data/*.db-wal
+data/prescan_cache.json
