@@ -25,9 +25,15 @@ DB_BACKUP = DB_PATH+'.backup'
 MOMIO_CACHE = os.path.join(BASE_DIR,'data','prescan_cache.json')
 sys.path.insert(0, BASE_DIR)
 from core_features import build_all_features, TEAM_IDS, TEAM_DIV, PARK_FACTORS, DB_PATH as FEATURES_DB_PATH
-from models.game import (train_multiwindow, load_all_models, ensemble_predict,
-                           models_exist as _legacy_models_exist, needs_retrain, get_models_dir as MODELS_DIR)
-from sync import (sync_savant_bootstrap, sync_savant_daily, sync_mlb_schedule, LineupPredictor)
+from config import USE_V3_ENSEMBLE
+from core_training import (train_multiwindow, load_all_models, ensemble_predict,
+                             models_exist as _legacy_models_exist, needs_retrain,
+                             get_models_dir as MODELS_DIR)
+
+from lineup_predictor import LineupPredictor
+# Legacy sync imports removed
+from savant_sync import sync_daily as sync_savant_daily
+
 
 _lineup_predictor = None
 def get_lineup_predictor():
@@ -827,11 +833,17 @@ def get_bullpen_savant_stats(team_id, date_str):
 
 
 def ensure_models():
-    if not _legacy_models_exist() or needs_retrain():
-        print(f"{C['Y']}Training models...{C['X']}")
-        df,pp=load_data()
-        df,feats,target=build_all_features(df,pp)
-        train_multiwindow(df,feats,target)
+    if USE_V3_ENSEMBLE:
+        if not v3_model_exists():
+            print(f"{C['Y']}V3 model not found. Training...{C['X']}")
+            import subprocess
+            subprocess.run(["python3", "models/train_ensemble_v3.py"], check=True)
+    else:
+        if not _legacy_models_exist() or needs_retrain():
+            print(f"{C['Y']}Training models...{C['X']}")
+            df,pp=load_data()
+            df,feats,target=build_all_features(df,pp)
+            train_multiwindow(df,feats,target)
 
 def backtest(beta=False):
     print("="*90+"\n OMEGA v3 BACKTEST\n"+"="*90)
@@ -1106,7 +1118,10 @@ def predict_live(date_str=None,beta=False, guess_lineups=False, use_filters=True
         date_str = next_date if next_date else datetime.now().strftime('%Y-%m-%d')
     if not skip_train:
         ensure_models()
-    models,scalers,feats,cal=load_all_models()
+    if USE_V3_ENSEMBLE:
+        models,scalers,feats_legacy,cal=None,None,None,None
+    else:
+        models,scalers,feats_legacy,cal=load_all_models()
     # Create PlayerELO once
     elo_sys=None
     beta_analyzer=None
@@ -1716,7 +1731,11 @@ def predict_live(date_str=None,beta=False, guess_lineups=False, use_filters=True
             if not d:
                 continue
 
-            r = ensemble_predict(models, scalers, feats, d, cal)
+            if USE_V3_ENSEMBLE:
+                r = predict_v3(d)
+                # the v3 function already maps output keys properly
+            else:
+                r = ensemble_predict(models, scalers, feats, d, cal)
 
             pick = hn if r['prob'] >= 0.5 else an
             # 🚫 NEVER bet on or against the Angels
