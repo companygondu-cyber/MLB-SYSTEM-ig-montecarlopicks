@@ -26,9 +26,18 @@ MOMIO_CACHE = os.path.join(BASE_DIR,'data','prescan_cache.json')
 sys.path.insert(0, BASE_DIR)
 from core_features import build_all_features, TEAM_IDS, TEAM_DIV, PARK_FACTORS, DB_PATH as FEATURES_DB_PATH
 from config import USE_V3_ENSEMBLE
-from core_training import (train_multiwindow, load_all_models, ensemble_predict,
-                             models_exist as _legacy_models_exist, needs_retrain,
-                             get_models_dir as MODELS_DIR)
+from models.game import (train_multiwindow, load_all_models, ensemble_predict,
+                           models_exist as _legacy_models_exist, needs_retrain,
+                           get_models_dir as MODELS_DIR)
+
+def v3_model_exists():
+    return False
+
+def _load_v3():
+    return None
+
+def predict_v3(d):
+    return None
 
 from lineup_predictor import LineupPredictor
 # Legacy sync imports removed
@@ -491,7 +500,6 @@ def get_pitcher_db_season_stats(pid, year):
                         'ip': ip, 'source': 'db_hist'}
     except Exception as e:
         logger.debug(f"DB stats failed for pid {pid} year {year}: {e}")
-    return None
 
 def get_pitcher_id_by_name_db(name):
     """Fallback ID resolver when StatsAPI schedule doesn't provide IDs.
@@ -1008,14 +1016,15 @@ def backtest(beta=False):
     
     print(f"\n  RENDIMIENTO POR TIERS (con filtros de racha y volatilidad):")
     def get_tier(row):
-        if row['god'] and row[conf_col] >= 80: return "💎 GOD"
-        elif row[conf_col] >= 78: return "🎯 SNIPER"
-        elif row[conf_col] >= 65: return "📦 VOLUMEN"
-        else: return "📊 STANDARD"
+        if row[conf_col] >= 72: return "💎 GOD"
+        elif row[conf_col] >= 65: return "🎯 SNIPER"
+        elif row[conf_col] >= 58: return "📦 VOLUMEN"
+        elif row[conf_col] >= 52: return "📊 STANDARD"
+        else: return "🛑 AVOID"
         
     R['tier'] = R.apply(get_tier, axis=1)
     
-    for t in ["💎 GOD", "🎯 SNIPER", "📦 VOLUMEN", "📊 STANDARD"]:
+    for t in ["💎 GOD", "🎯 SNIPER", "📦 VOLUMEN", "📊 STANDARD", "🛑 AVOID"]:
         subset = R[R['tier'] == t]
         if len(subset) > 0:
             print(f"  {t}: {subset['hit'].mean():.2%} ({subset['hit'].sum()}/{len(subset)})")
@@ -1085,7 +1094,6 @@ def find_next_game_date(start_date_str=None, max_days=7):
                 return date_str
         except Exception:
             continue
-    return None
 
 def auto_sync_and_retrain(skip_sync=False):
     """Auto-sync yesterday's games and retrain if week has passed."""
@@ -1742,9 +1750,6 @@ def predict_live(date_str=None,beta=False, guess_lineups=False, use_filters=True
             angels_rule = "Los Angeles Angels" in (hn, an)
             conf_raw = r['conf_raw']
             conf_cal = r['conf_calibrated']
-            if not pitcher_data_complete:
-                conf_cal = min(conf_cal, 64.9)
-                conf_raw = min(conf_raw, 64.9)
             cons = r['consensus']
             god = r['god_mode']
 
@@ -1765,7 +1770,7 @@ def predict_live(date_str=None,beta=False, guess_lineups=False, use_filters=True
                         arr = "▲" if sup > 0 else "▼"
                         beta_tag = f"🧬{arr}{abs(sup):.0%}"
                         if pick == an: delta = -delta
-                        conf_cal = min(max(conf_cal + delta * 100, 50), 99)
+                        conf_cal = conf_cal + delta * 100
                 except Exception as e:
                     pass
 
@@ -1791,27 +1796,23 @@ def predict_live(date_str=None,beta=False, guess_lineups=False, use_filters=True
                 form_vol_flags.append("🚫 ANGELS")
             if use_filters:
                 if is_high_vol:
-                    conf_cal -= 3.5
-                    conf_cal = min(conf_cal, 74.9)
                     form_vol_flags.append("⚠️ ALTA VOL")
-                if is_cold and conf_cal >= 78 and conf_cal < 80:
-                    conf_cal -= 4.6
                 if is_hot:
                     form_vol_flags.append("🔥 CALIENTE")
                 elif is_cold:
                     form_vol_flags.append("❄️ FRÍO")
 
             # TIER based on calibrated confidence
-            if god and conf_cal >= 80:
+            if conf_cal >= 72:
                 tier = "💎 GOD"
-                if is_cold:
-                    tier = "💎 GOD (❄️ TRAMPA)"
-            elif conf_cal >= 78:
-                tier = "🎯 SNIPER"
             elif conf_cal >= 65:
+                tier = "🎯 SNIPER"
+            elif conf_cal >= 58:
                 tier = "📦 VOLUMEN"
-            else:
+            elif conf_cal >= 52:
                 tier = "📊 STANDARD"
+            else:
+                tier = "🛑 AVOID"
 
             # ── Prediction Quality Score (0-10) ──
             pq_score = 0

@@ -52,6 +52,9 @@ for _div, _teams in DIVISIONS.items():
         TEAM_DIV[_t] = _div
 TEAM_DIV['Athletics'] = TEAM_DIV.get('Oakland Athletics', 'AL West')
 
+# ── Toggle for the unified 24-model V3 ensemble ──
+USE_V3_ENSEMBLE = False
+
 
 @dataclass(frozen=True)
 class Paths:
