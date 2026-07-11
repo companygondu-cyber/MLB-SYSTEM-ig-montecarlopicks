@@ -1,0 +1,41 @@
+name: k6 Load Test
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+
+jobs:
+  run-k6-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del codigo
+        uses: actions/checkout@v4
+
+      - name: Ejecutar prueba de carga con k6
+        run: |
+          docker run --rm -i --network host grafana/k6 run - <<'EOF'
+          import http from 'k6/http';
+          import { check } from 'k6';
+
+          export const options = {
+            scenarios: {
+              prueba_directa: {
+                executor: 'constant-arrival-rate',
+                rate: 7000,
+                timeUnit: '1m',
+                duration: '1m',
+                preAllocatedVUs: 50,
+                maxVUs: 200,
+              },
+            },
+          };
+
+          export default function () {
+            const res = http.get('http://localhost:3000/'); 
+            
+            check(res, {
+              'status es 200': (r) => r.status === 200,
+            });
+          }
+          EOF
