@@ -1,22 +1,29 @@
-name: k6 Load Test
+name: k6 Load Test (Continuo)
 
 on:
   push:
     branches: [ "main" ]
   pull_request:
+  workflow_dispatch:
 
 jobs:
   run-k6-test:
     runs-on: ubuntu-latest
+    timeout-minutes: 360
     steps:
       - name: Checkout del codigo
         uses: actions/checkout@v4
 
       - name: Ejecutar prueba de carga con k6
         run: |
-          docker run --rm -i --network host grafana/k6 run - <<'EOF'
+          docker run --rm -i --network host \
+            grafana/k6 run --summary-trend-stats="min,avg,med,max,p(90),p(95),count" \
+            - <<'EOF'
           import http from 'k6/http';
-          import { check } from 'k6';
+          import { check, sleep } from 'k6';
+
+          let requestCount = 0;
+          let lastLog = Date.now();
 
           export const options = {
             scenarios: {
@@ -24,7 +31,7 @@ jobs:
                 executor: 'constant-arrival-rate',
                 rate: 7000,
                 timeUnit: '1m',
-                duration: '1m',
+                duration: '24h',
                 preAllocatedVUs: 50,
                 maxVUs: 200,
               },
@@ -32,10 +39,17 @@ jobs:
           };
 
           export default function () {
-            const res = http.get('http://localhost:3000/'); 
-            
+            const res = http.get('http://localhost:3000/');
+
             check(res, {
               'status es 200': (r) => r.status === 200,
             });
+
+            requestCount++;
+            const now = Date.now();
+            if (now - lastLog >= 10000) {
+              console.log(`[${new Date().toISOString()}] Peticiones enviadas: ${requestCount} | OK: ${res.status === 200 ? '✅' : '❌'} (${res.status})`);
+              lastLog = now;
+            }
           }
           EOF
